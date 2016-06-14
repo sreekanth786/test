@@ -1,0 +1,19 @@
+ INFO | 2016-06-14 15:45:36,672 | Common.java | 75 | Startup activites...
+ INFO | 2016-06-14 15:45:36,675 | Common.java | 75 | Test Output Directory creation successful :D:\Sreekanth Data\Workspace_Sreekanth\Swaut_Silk\TestResults\2016_06_14_03_45_36_PM
+ INFO | 2016-06-14 15:45:36,675 | Common.java | 75 | Log File creation successful : LogFile.log
+ INFO | 2016-06-14 15:45:36,824 | Common.java | 75 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-06-14 15:45:36,939 | Common.java | 75 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-14 15:45:37,063 | Common.java | 75 | ##### Start of Test Case : Verify Login #####
+ INFO | 2016-06-14 15:45:37,063 | Common.java | 75 | Test Case Name: TC_001
+ INFO | 2016-06-14 15:45:37,064 | Common.java | 75 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-14 15:45:37,108 | Common.java | 75 | Test Data Set Name: TC_001
+ INFO | 2016-06-14 15:45:37,109 | Common.java | 75 | Execution Flag: Execute
+ INFO | 2016-06-14 15:45:37,109 | Common.java | 75 | Test Data Set Name: TC_001_1
+ INFO | 2016-06-14 15:45:37,109 | Common.java | 75 | Execution Flag: YES
+ INFO | 2016-06-14 15:45:37,109 | Common.java | 75 | Test Data Set Name: TC_001_2
+ INFO | 2016-06-14 15:45:37,109 | Common.java | 75 | Execution Flag: YES
+ INFO | 2016-06-14 15:45:37,109 | Common.java | 75 | Test Data Set Name: 
+ INFO | 2016-06-14 15:45:37,110 | Common.java | 75 | Execution Flag: 
+ INFO | 2016-06-14 15:45:37,114 | Common.java | 75 | Open browser: No values passed retrieving default values...
+ INFO | 2016-06-14 15:45:37,114 | Common.java | 75 | Getting value of AppBrowser from Test Configuration file : INTERNETEXPLORER
+ INFO | 2016-06-14 15:45:37,114 | Common.java | 75 | Getting value of AppURL from Test Configuration file : http://newtours.demoaut.com/

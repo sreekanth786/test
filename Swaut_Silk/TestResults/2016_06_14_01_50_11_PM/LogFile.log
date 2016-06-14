@@ -1,0 +1,77 @@
+ INFO | 2016-06-14 13:50:11,983 | Common.java | 75 | Startup activites...
+ INFO | 2016-06-14 13:50:11,985 | Common.java | 75 | Test Output Directory creation successful :D:\Sreekanth Data\Workspace_Sreekanth\Swaut_Silk\TestResults\2016_06_14_01_50_11_PM
+ INFO | 2016-06-14 13:50:11,986 | Common.java | 75 | Log File creation successful : LogFile.log
+ INFO | 2016-06-14 13:50:12,125 | Common.java | 75 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-06-14 13:50:12,219 | Common.java | 75 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-14 13:50:12,335 | Common.java | 75 | ##### Start of Test Case : Verify Login #####
+ INFO | 2016-06-14 13:50:12,335 | Common.java | 75 | Test Case Name: TC_001
+ INFO | 2016-06-14 13:50:12,335 | Common.java | 75 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-14 13:50:12,388 | Common.java | 75 | Test Data Set Name: TC_001
+ INFO | 2016-06-14 13:50:12,388 | Common.java | 75 | Execution Flag: Execute
+ INFO | 2016-06-14 13:50:12,388 | Common.java | 75 | Test Data Set Name: TC_001_1
+ INFO | 2016-06-14 13:50:12,388 | Common.java | 75 | Execution Flag: YES
+ INFO | 2016-06-14 13:50:12,388 | Common.java | 75 | Test Data Set Name: TC_001_2
+ INFO | 2016-06-14 13:50:12,389 | Common.java | 75 | Execution Flag: YES
+ INFO | 2016-06-14 13:50:12,389 | Common.java | 75 | Test Data Set Name: 
+ INFO | 2016-06-14 13:50:12,389 | Common.java | 75 | Execution Flag: 
+ INFO | 2016-06-14 13:50:12,393 | Common.java | 75 | Open browser: No values passed retrieving default values...
+ INFO | 2016-06-14 13:50:12,393 | Common.java | 75 | Getting value of AppBrowser from Test Configuration file : INTERNETEXPLORER
+ INFO | 2016-06-14 13:50:12,393 | Common.java | 75 | Getting value of AppURL from Test Configuration file : http://newtours.demoaut.com/
+ INFO | 2016-06-14 13:50:19,203 | Common.java | 75 | Successfully Maximised Browser Window
+ INFO | 2016-06-14 13:50:19,215 | Common.java | 75 | Getting value of ElementLoadWaitTime from Test Configuration file : 40
+ INFO | 2016-06-14 13:50:19,216 | Common.java | 75 | Getting value of TextLoadWaitTime from Test Configuration file : 40
+ INFO | 2016-06-14 13:50:19,216 | Common.java | 75 | Getting value of PageLoadWaitTime from Test Configuration file : 40
+ INFO | 2016-06-14 13:50:19,216 | Common.java | 75 | Getting value of ImplicitlyWaitTime from Test Configuration file : 40
+ INFO | 2016-06-14 13:50:19,217 | Common.java | 75 | Element time out set
+ INFO | 2016-06-14 13:50:19,217 | Common.java | 75 | Browser: Open Successful: internetexplorer
+ INFO | 2016-06-14 13:50:19,297 | Common.java | 75 | Entered Username and password
+ERROR | 2016-06-14 13:50:19,298 | Common.java | 90 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-06-14 13:50:22,387 | Common.java | 75 | Clicked on Sign In Button
+ERROR | 2016-06-14 13:50:22,388 | Common.java | 90 | Invalid log Type :PASS. Unable to log the message.
+ERROR | 2016-06-14 13:50:26,263 | Common.java | 83 | Unable to login to application
+ERROR | 2016-06-14 13:50:26,263 | Common.java | 83 | Report step generation success : Unable to login to application
+ INFO | 2016-06-14 13:50:26,277 | Common.java | 75 | Successfully Maximised Browser Window
+ INFO | 2016-06-14 13:50:26,489 | Common.java | 75 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : No
+ INFO | 2016-06-14 13:50:26,489 | Common.java | 75 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : No
+ INFO | 2016-06-14 13:50:26,490 | Common.java | 75 | Closing Browser...
+ INFO | 2016-06-14 13:50:26,499 | Common.java | 75 | Successfully deleted all cookies
+ INFO | 2016-06-14 13:50:26,513 | Common.java | 75 | Browser: Closed Successfully
+ERROR | 2016-06-14 13:50:26,514 | Common.java | 90 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-06-14 13:50:26,743 | Common.java | 75 | ##### Start of Test Case : Verify Login #####
+ INFO | 2016-06-14 13:50:26,743 | Common.java | 75 | Test Case Name: TC_002
+ INFO | 2016-06-14 13:50:26,743 | Common.java | 75 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-14 13:50:26,809 | Common.java | 75 | Test Data Set Name: TC_002
+ INFO | 2016-06-14 13:50:26,810 | Common.java | 75 | Execution Flag: Execute
+ INFO | 2016-06-14 13:50:26,810 | Common.java | 75 | Test Data Set Name: TC_002_1
+ INFO | 2016-06-14 13:50:26,810 | Common.java | 75 | Execution Flag: YES
+ INFO | 2016-06-14 13:50:26,810 | Common.java | 75 | Test Data Set Name: 
+ INFO | 2016-06-14 13:50:26,810 | Common.java | 75 | Execution Flag: 
+ INFO | 2016-06-14 13:50:26,810 | Common.java | 75 | Open browser: No values passed retrieving default values...
+ INFO | 2016-06-14 13:50:26,811 | Common.java | 75 | Getting value of AppBrowser from Test Configuration file : INTERNETEXPLORER
+ INFO | 2016-06-14 13:50:26,811 | Common.java | 75 | Getting value of AppURL from Test Configuration file : http://newtours.demoaut.com/
+ INFO | 2016-06-14 13:50:33,809 | Common.java | 75 | Successfully Maximised Browser Window
+ INFO | 2016-06-14 13:50:33,826 | Common.java | 75 | Getting value of ElementLoadWaitTime from Test Configuration file : 40
+ INFO | 2016-06-14 13:50:33,826 | Common.java | 75 | Getting value of TextLoadWaitTime from Test Configuration file : 40
+ INFO | 2016-06-14 13:50:33,827 | Common.java | 75 | Getting value of PageLoadWaitTime from Test Configuration file : 40
+ INFO | 2016-06-14 13:50:33,827 | Common.java | 75 | Getting value of ImplicitlyWaitTime from Test Configuration file : 40
+ INFO | 2016-06-14 13:50:33,827 | Common.java | 75 | Element time out set
+ INFO | 2016-06-14 13:50:33,828 | Common.java | 75 | Browser: Open Successful: internetexplorer
+ INFO | 2016-06-14 13:50:33,955 | Common.java | 75 | Entered Username and password
+ERROR | 2016-06-14 13:50:33,955 | Common.java | 90 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-06-14 13:50:37,048 | Common.java | 75 | Clicked on Sign In Button
+ERROR | 2016-06-14 13:50:37,048 | Common.java | 90 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-06-14 13:50:37,048 | Common.java | 75 | Closing Browser...
+ INFO | 2016-06-14 13:50:37,064 | Common.java | 75 | Successfully deleted all cookies
+ INFO | 2016-06-14 13:50:37,079 | Common.java | 75 | Browser: Closed Successfully
+ERROR | 2016-06-14 13:50:37,079 | Common.java | 90 | Invalid log Type :PASS. Unable to log the message.
+ INFO | 2016-06-14 13:50:37,200 | Common.java | 75 | Getting value of sun_logo_path from Test Configuration file : .\\Logos\\Sun.jpg
+ INFO | 2016-06-14 13:50:37,201 | Common.java | 75 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-14 13:50:37,201 | Common.java | 75 | Getting value of sun_logo_path from Test Configuration file : .\\Logos\\Sun.jpg
+ INFO | 2016-06-14 13:50:37,201 | Common.java | 75 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-14 13:50:37,206 | Common.java | 75 | Cleanup activites...
+ INFO | 2016-06-14 13:50:37,206 | Common.java | 75 | Cleanup activities - Done...
+ INFO | 2016-06-14 13:50:37,206 | Common.java | 75 | Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2016-06-14 13:50:37,207 | Common.java | 75 | Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2016-06-14 13:50:37,207 | Common.java | 75 | ###################################
+ INFO | 2016-06-14 13:50:37,207 | Common.java | 75 | Script Execution Complete
+ INFO | 2016-06-14 13:50:37,207 | Common.java | 75 | ####################################

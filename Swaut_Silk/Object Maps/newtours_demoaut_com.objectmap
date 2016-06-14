@@ -1,0 +1,10 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="newtours_demoaut_com" locator="//BrowserApplication" urlPattern="*newtours.demoaut.com*">
+    <ObjectMapEntry id="BrowserWindow" locator="//BrowserWindow">
+      <ObjectMapEntry id="http   newtours demo" locator="//IMG[@src=&apos;http://newtours.demo*&apos;][5]"/>
+      <ObjectMapEntry id="login" locator="//INPUT[@name=&apos;login&apos;]"/>
+      <ObjectMapEntry id="password" locator="//INPUT[@name=&apos;password&apos;]"/>
+      <ObjectMapEntry id="userName" locator="//INPUT[@name=&apos;userName&apos;]"/>
+    </ObjectMapEntry>
+  </ObjectMapEntry>
+</ObjectMap>

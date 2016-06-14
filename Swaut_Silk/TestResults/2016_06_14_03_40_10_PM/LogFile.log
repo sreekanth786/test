@@ -1,0 +1,32 @@
+ INFO | 2016-06-14 15:40:10,043 | Common.java | 75 | Startup activites...
+ INFO | 2016-06-14 15:40:10,046 | Common.java | 75 | Test Output Directory creation successful :D:\Sreekanth Data\Workspace_Sreekanth\Swaut_Silk\TestResults\2016_06_14_03_40_10_PM
+ INFO | 2016-06-14 15:40:10,046 | Common.java | 75 | Log File creation successful : LogFile.log
+ INFO | 2016-06-14 15:40:10,182 | Common.java | 75 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./data/TestCaseSettings.xls
+ INFO | 2016-06-14 15:40:10,291 | Common.java | 75 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-14 15:40:10,436 | Common.java | 75 | ##### Start of Test Case : Verify Login #####
+ INFO | 2016-06-14 15:40:10,436 | Common.java | 75 | Test Case Name: TC_001
+ INFO | 2016-06-14 15:40:10,438 | Common.java | 75 | Getting value of TestDataFile from Test Configuration file : .\data\TestData.xls
+ INFO | 2016-06-14 15:40:10,482 | Common.java | 75 | Test Data Set Name: TC_001
+ INFO | 2016-06-14 15:40:10,483 | Common.java | 75 | Execution Flag: Execute
+ INFO | 2016-06-14 15:40:10,483 | Common.java | 75 | Test Data Set Name: TC_001_1
+ INFO | 2016-06-14 15:40:10,483 | Common.java | 75 | Execution Flag: YES
+ INFO | 2016-06-14 15:40:10,483 | Common.java | 75 | Test Data Set Name: TC_001_2
+ INFO | 2016-06-14 15:40:10,483 | Common.java | 75 | Execution Flag: YES
+ INFO | 2016-06-14 15:40:10,483 | Common.java | 75 | Test Data Set Name: 
+ INFO | 2016-06-14 15:40:10,483 | Common.java | 75 | Execution Flag: 
+ INFO | 2016-06-14 15:40:10,488 | Common.java | 75 | Open browser: No values passed retrieving default values...
+ INFO | 2016-06-14 15:40:10,489 | Common.java | 75 | Getting value of AppBrowser from Test Configuration file : INTERNETEXPLORER
+ INFO | 2016-06-14 15:40:10,489 | Common.java | 75 | Getting value of AppURL from Test Configuration file : http://newtours.demoaut.com/
+ERROR | 2016-06-14 15:40:17,101 | Common.java | 83 | Browser: Open Failure/Navigation cancelled, please check the application window.
+ERROR | 2016-06-14 15:40:17,102 | Common.java | 83 | com.borland.silktest.jtf.common.ObjectNotFoundException: Could not find object '//BrowserWindow'.
+ INFO | 2016-06-14 15:40:17,183 | Common.java | 75 | Getting value of sun_logo_path from Test Configuration file : .\\Logos\\Sun.jpg
+ INFO | 2016-06-14 15:40:17,183 | Common.java | 75 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-14 15:40:17,183 | Common.java | 75 | Getting value of sun_logo_path from Test Configuration file : .\\Logos\\Sun.jpg
+ INFO | 2016-06-14 15:40:17,184 | Common.java | 75 | Getting value of client_logo_path from Test Configuration file : .\\Logos\\client_logo.jpg
+ INFO | 2016-06-14 15:40:17,208 | Common.java | 75 | Cleanup activites...
+ INFO | 2016-06-14 15:40:17,208 | Common.java | 75 | Cleanup activities - Done...
+ INFO | 2016-06-14 15:40:17,209 | Common.java | 75 | Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2016-06-14 15:40:17,209 | Common.java | 75 | Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2016-06-14 15:40:17,209 | Common.java | 75 | ###################################
+ INFO | 2016-06-14 15:40:17,209 | Common.java | 75 | Script Execution Complete
+ INFO | 2016-06-14 15:40:17,209 | Common.java | 75 | ####################################

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recorderProject version="16.0">
+  <applicationConfiguration>
+    <browserType>InternetExplorer</browserType>
+    <baseStateInfo>
+      <locator>//BrowserApplication</locator>
+      <url>http://newtours.demoaut.com</url>
+    </baseStateInfo>
+  </applicationConfiguration>
+  <agentOptions>
+    <entry>
+      <string>OPT_ASSET_NAMESPACE</string>
+      <string>zzzFlightAppTest</string>
+    </entry>
+  </agentOptions>
+</recorderProject>
